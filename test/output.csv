@@ -1,0 +1,122 @@
+ Study ID,Patient ID,Sample ID,Diagnosis Age,Cancer Type,Cancer Type Detailed,ETS RAF-SPINK1 Status,Fraction Genome Altered,Radical Prostatectomy Gleason Score for Prostate Cancer,Matched GE ACGH,Mutation Count,Normal location,Oncotree Code,Overall Survival (Months),Overall Survival Status,Primary Tumor Site,Number of Samples Per Patient,Sample Type,Serum PSA,Sex,Somatic Status,Survival from First Chemotherapy,Survival from First Hormone Therapy,TMB (nonsynonymous),Chemotherapy,Hormone Therapy,Palliative Radiation,Prostatectomy,Radiation
+prad_mich,T1,T1,NA,Prostate Cancer,Prostate Adenocarcinoma,NA,NA,NA,NA,NA,NA,PRAD,NA,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+prad_mich,T10,T10,NA,Prostate Cancer,Prostate Adenocarcinoma,NA,NA,NA,NA,NA,NA,PRAD,NA,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+prad_mich,T11,T11,NA,Prostate Cancer,Prostate Adenocarcinoma,NA,NA,NA,NA,NA,NA,PRAD,NA,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+prad_mich,T12,T12,62.0,Prostate Cancer,Prostate Adenocarcinoma,ERG+,0.1277,8,Yes,23,Prostate,PRAD,NA,0:LIVING,Prostate,1,Primary,5.3,Male,Matched,NA,NA,0.766666666667,NA,NA,NA,NA,NA
+prad_mich,T17,T17,NA,Prostate Cancer,Prostate Adenocarcinoma,NA,NA,NA,NA,NA,NA,PRAD,NA,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+prad_mich,T19,T19,NA,Prostate Cancer,Prostate Adenocarcinoma,NA,NA,NA,NA,NA,NA,PRAD,NA,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+prad_mich,T20,T20,NA,Prostate Cancer,Prostate Adenocarcinoma,NA,NA,NA,NA,NA,NA,PRAD,NA,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+prad_mich,T21,T21,NA,Prostate Cancer,Prostate Adenocarcinoma,NA,NA,NA,NA,NA,NA,PRAD,NA,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+prad_mich,T24,T24,NA,Prostate Cancer,Prostate Adenocarcinoma,NA,NA,NA,NA,NA,NA,PRAD,NA,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+prad_mich,T25,T25,NA,Prostate Cancer,Prostate Adenocarcinoma,NA,NA,NA,NA,NA,NA,PRAD,NA,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+prad_mich,T26,T26,NA,Prostate Cancer,Prostate Adenocarcinoma,NA,NA,NA,NA,NA,NA,PRAD,NA,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+prad_mich,T27,T27,NA,Prostate Cancer,Prostate Adenocarcinoma,NA,NA,NA,NA,NA,NA,PRAD,NA,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+prad_mich,T29,T29,NA,Prostate Cancer,Prostate Adenocarcinoma,NA,NA,NA,NA,NA,NA,PRAD,NA,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+prad_mich,T3,T3,NA,Prostate Cancer,Prostate Adenocarcinoma,NA,NA,NA,NA,NA,NA,PRAD,NA,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+prad_mich,T31,T31,NA,Prostate Cancer,Prostate Adenocarcinoma,NA,NA,NA,NA,NA,NA,PRAD,NA,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+prad_mich,T32,T32,54.0,Prostate Cancer,Prostate Adenocarcinoma,RAF1+,0.0198,7,Yes,14,Prostate,PRAD,NA,0:LIVING,Prostate,1,Primary,10.1,Male,Matched,NA,NA,0.5,NA,NA,NA,NA,NA
+prad_mich,T37,T37,NA,Prostate Cancer,Prostate Adenocarcinoma,NA,NA,NA,NA,NA,NA,PRAD,NA,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+prad_mich,T39,T39,NA,Prostate Cancer,Prostate Adenocarcinoma,NA,NA,NA,NA,NA,NA,PRAD,NA,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+prad_mich,T40,T40,NA,Prostate Cancer,Prostate Adenocarcinoma,NA,NA,NA,NA,NA,NA,PRAD,NA,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+prad_mich,T41,T41,NA,Prostate Cancer,Prostate Adenocarcinoma,NA,NA,NA,NA,NA,NA,PRAD,NA,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+prad_mich,T42,T42,NA,Prostate Cancer,Prostate Adenocarcinoma,NA,NA,NA,NA,NA,NA,PRAD,NA,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+prad_mich,T43,T43,NA,Prostate Cancer,Prostate Adenocarcinoma,NA,NA,NA,NA,NA,NA,PRAD,NA,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+prad_mich,T44,T44,NA,Prostate Cancer,Prostate Adenocarcinoma,NA,NA,NA,NA,NA,NA,PRAD,NA,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+prad_mich,T45,T45,NA,Prostate Cancer,Prostate Adenocarcinoma,NA,NA,NA,NA,NA,NA,PRAD,NA,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+prad_mich,T46,T46,NA,Prostate Cancer,Prostate Adenocarcinoma,NA,NA,NA,NA,NA,NA,PRAD,NA,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+prad_mich,T47,T47,NA,Prostate Cancer,Prostate Adenocarcinoma,NA,NA,NA,NA,NA,NA,PRAD,NA,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+prad_mich,T48,T48,NA,Prostate Cancer,Prostate Adenocarcinoma,NA,NA,NA,NA,NA,NA,PRAD,NA,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+prad_mich,T49,T49,NA,Prostate Cancer,Prostate Adenocarcinoma,NA,NA,NA,NA,NA,NA,PRAD,NA,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+prad_mich,T5,T5,NA,Prostate Cancer,Prostate Adenocarcinoma,NA,NA,NA,NA,NA,NA,PRAD,NA,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+prad_mich,T50,T50,NA,Prostate Cancer,Prostate Adenocarcinoma,NA,NA,NA,NA,NA,NA,PRAD,NA,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+prad_mich,T51,T51,NA,Prostate Cancer,Prostate Adenocarcinoma,NA,NA,NA,NA,NA,NA,PRAD,NA,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+prad_mich,T52,T52,NA,Prostate Cancer,Prostate Adenocarcinoma,NA,NA,NA,NA,NA,NA,PRAD,NA,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+prad_mich,T53,T53,NA,Prostate Cancer,Prostate Adenocarcinoma,NA,NA,NA,NA,NA,NA,PRAD,NA,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+prad_mich,T54,T54,NA,Prostate Cancer,Prostate Adenocarcinoma,NA,NA,NA,NA,NA,NA,PRAD,NA,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+prad_mich,T55,T55,NA,Prostate Cancer,Prostate Adenocarcinoma,NA,NA,NA,NA,NA,NA,PRAD,NA,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+prad_mich,T56,T56,NA,Prostate Cancer,Prostate Adenocarcinoma,NA,NA,NA,NA,NA,NA,PRAD,NA,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+prad_mich,T57,T57,NA,Prostate Cancer,Prostate Adenocarcinoma,NA,NA,NA,NA,NA,NA,PRAD,NA,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+prad_mich,T58,T58,NA,Prostate Cancer,Prostate Adenocarcinoma,NA,NA,NA,NA,NA,NA,PRAD,NA,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+prad_mich,T59,T59,NA,Prostate Cancer,Prostate Adenocarcinoma,NA,NA,NA,NA,NA,NA,PRAD,NA,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+prad_mich,T6,T6,NA,Prostate Cancer,Prostate Adenocarcinoma,NA,NA,NA,NA,NA,NA,PRAD,NA,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+prad_mich,T60,T60,NA,Prostate Cancer,Prostate Adenocarcinoma,NA,NA,NA,NA,NA,NA,PRAD,NA,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+prad_mich,T61,T61,NA,Prostate Cancer,Prostate Adenocarcinoma,NA,NA,NA,NA,NA,NA,PRAD,NA,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+prad_mich,T62,T62,NA,Prostate Cancer,Prostate Adenocarcinoma,NA,NA,NA,NA,NA,NA,PRAD,NA,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+prad_mich,T63,T63,NA,Prostate Cancer,Prostate Adenocarcinoma,NA,NA,NA,NA,NA,NA,PRAD,NA,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+prad_mich,T64,T64,NA,Prostate Cancer,Prostate Adenocarcinoma,NA,NA,NA,NA,NA,NA,PRAD,NA,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+prad_mich,T65,T65,NA,Prostate Cancer,Prostate Adenocarcinoma,NA,NA,NA,NA,NA,NA,PRAD,NA,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+prad_mich,T66,T66,NA,Prostate Cancer,Prostate Adenocarcinoma,NA,NA,NA,NA,NA,NA,PRAD,NA,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+prad_mich,T67,T67,NA,Prostate Cancer,Prostate Adenocarcinoma,NA,NA,NA,NA,NA,NA,PRAD,NA,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+prad_mich,T68,T68,NA,Prostate Cancer,Prostate Adenocarcinoma,NA,NA,NA,NA,NA,NA,PRAD,NA,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+prad_mich,T69,T69,NA,Prostate Cancer,Prostate Adenocarcinoma,NA,NA,NA,NA,NA,NA,PRAD,NA,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+prad_mich,T7,T7,NA,Prostate Cancer,Prostate Adenocarcinoma,NA,NA,NA,NA,NA,NA,PRAD,NA,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+prad_mich,T70,T70,NA,Prostate Cancer,Prostate Adenocarcinoma,NA,NA,NA,NA,NA,NA,PRAD,NA,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+prad_mich,T73,T73,NA,Prostate Cancer,Prostate Adenocarcinoma,NA,NA,NA,NA,NA,NA,PRAD,NA,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+prad_mich,T75,T75,NA,Prostate Cancer,Prostate Adenocarcinoma,NA,NA,NA,NA,NA,NA,PRAD,NA,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+prad_mich,T8,T8,61.0,Prostate Cancer,Prostate Adenocarcinoma,ERG+,0.0153,7,Yes,13,Prostate,PRAD,NA,0:LIVING,Prostate,1,Primary,5.7,Male,Matched,NA,NA,0.466666666667,NA,NA,NA,NA,NA
+prad_mich,T82,T82,NA,Prostate Cancer,Prostate Adenocarcinoma,NA,NA,NA,NA,NA,NA,PRAD,NA,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+prad_mich,T83,T83,NA,Prostate Cancer,Prostate Adenocarcinoma,NA,NA,NA,NA,NA,NA,PRAD,NA,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+prad_mich,T85,T85,NA,Prostate Cancer,Prostate Adenocarcinoma,NA,NA,NA,NA,NA,NA,PRAD,NA,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+prad_mich,T90,T90,60.0,Prostate Cancer,Prostate Adenocarcinoma,ERG+,0.1814,8,No,36,Prostate,PRAD,NA,0:LIVING,Prostate,1,Primary,27.1,Male,Unmatched,NA,NA,1.23333333333,NA,NA,NA,NA,NA
+prad_mich,T91,T91,55.0,Prostate Cancer,Prostate Adenocarcinoma,ERG+,0.2928,9,No,16,Prostate,PRAD,NA,0:LIVING,Prostate,1,Primary,6.5,Male,Unmatched,NA,NA,0.533333333333,NA,NA,NA,NA,NA
+prad_mich,T92,T92,55.0,Prostate Cancer,Prostate Adenocarcinoma,ETV1+,0.0666,8,No,33,Prostate,PRAD,NA,0:LIVING,Prostate,1,Primary,5.7,Male,Unmatched,NA,NA,1.1,NA,NA,NA,NA,NA
+prad_mich,T93,T93,71.0,Prostate Cancer,Prostate Adenocarcinoma,No ETS,0.0664,9,No,22,Prostate,PRAD,NA,0:LIVING,Prostate,1,Primary,4.2,Male,Unmatched,NA,NA,0.733333333333,NA,NA,NA,NA,NA
+prad_mich,T94,T94,58.0,Prostate Cancer,Prostate Adenocarcinoma,ERG+,0.2536,8,No,14,Prostate,PRAD,NA,0:LIVING,Prostate,1,Primary,20.3,Male,Unmatched,NA,NA,0.466666666667,NA,NA,NA,NA,NA
+prad_mich,T95,T95,59.0,Prostate Cancer,Prostate Adenocarcinoma,No ETS,0.0645,9,No,32,Prostate,PRAD,NA,0:LIVING,Prostate,1,Primary,15.0,Male,Unmatched,NA,NA,1.06666666667,NA,NA,NA,NA,NA
+prad_mich,T96,T96,65.0,Prostate Cancer,Prostate Adenocarcinoma,ERG+,0.2484,9,No,38,Prostate,PRAD,NA,0:LIVING,Prostate,1,Primary,4.9,Male,Unmatched,NA,NA,1.26666666667,NA,NA,NA,NA,NA
+prad_mich,T97,T97,70.0,Prostate Cancer,Prostate Adenocarcinoma,ERG+,0.4491,9,No,37,Prostate,PRAD,NA,0:LIVING,Prostate,1,Primary,15.0,Male,Unmatched,NA,NA,1.23333333333,NA,NA,NA,NA,NA
+prad_mich,T9a,T9a,NA,Prostate Cancer,Prostate Adenocarcinoma,NA,NA,NA,NA,NA,NA,PRAD,NA,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+prad_mich,WA10,WA10,78.0,Prostate Cancer,Prostate Adenocarcinoma,No ETS,0.4808,NA,Yes,70,Spleen,PRAD,84.0,1:DECEASED,Liver,1,Metastasis,130.0,Male,Matched,7.0,24.0,2.33333333333,Yes,Yes,Yes,No,Yes
+prad_mich,WA11,WA11,67.0,Prostate Cancer,Prostate Adenocarcinoma,No ETS,0.4192,NA,Yes,57,Lung,PRAD,39.0,1:DECEASED,Lung,1,Metastasis,35.0,Male,Matched,5.0,17.0,1.86666666667,No,Yes,Yes,No,Yes
+prad_mich,WA12,WA12,79.0,Prostate Cancer,Prostate Adenocarcinoma,ERG+ (small cell),0.7150,NA,No,79,Liver,PRAD,60.0,1:DECEASED,Soft tissue,1,Metastasis,230.0,Male,Unmatched,16.0,60.0,2.63333333333,Yes,Yes,No,No,No
+prad_mich,WA13,WA13,71.0,Prostate Cancer,Prostate Adenocarcinoma,ERG+,0.8340,NA,Yes,40,Bone marrow,PRAD,132.0,1:DECEASED,Soft tissue,1,Metastasis,407.0,Male,Matched,23.0,132.0,1.33333333333,Yes,Yes,No,No,No
+prad_mich,WA14,WA14,76.0,Prostate Cancer,Prostate Adenocarcinoma,No ETS,0.6444,NA,Yes,43,Dura,PRAD,180.0,1:DECEASED,Prostate,1,Metastasis,3771.0,Male,Matched,18.0,96.0,1.43333333333,Yes,Yes,No,No,Yes
+prad_mich,WA15,WA15,74.0,Prostate Cancer,Prostate Adenocarcinoma,(ERG+),0.1903,NA,No,38,Prostate,PRAD,15.0,1:DECEASED,Lymph node,1,Metastasis,799.0,Male,Unmatched,2.0,7.0,1.26666666667,Yes,Yes,No,No,Yes
+prad_mich,WA16,WA16,71.0,Prostate Cancer,Prostate Adenocarcinoma,ERG+,0.1056,NA,Yes,730,Kidney,PRAD,37.0,1:DECEASED,Diaphragm,1,Metastasis,2300.0,Male,Matched,15.0,37.0,24.4,Yes,Yes,No,No,Yes
+prad_mich,WA17,WA17,75.0,Prostate Cancer,Prostate Adenocarcinoma,No ETS,0.2975,NA,No,36,Liver,PRAD,33.0,1:DECEASED,Liver,1,Metastasis,249.0,Male,Unmatched,13.0,32.0,1.2,Yes,Yes,Yes,No,No
+prad_mich,WA18,WA18,62.0,Prostate Cancer,Prostate Adenocarcinoma,ERG+,0.2854,NA,Yes,61,Kidney,PRAD,156.0,1:DECEASED,Liver,1,Metastasis,7336.0,Male,Matched,15.0,72.0,2.03333333333,Yes,Yes,No,Yes,Yes
+prad_mich,WA19,WA19,85.0,Prostate Cancer,Prostate Adenocarcinoma,No ETS,0.2337,NA,Yes,55,Adrenal gland,PRAD,120.0,1:DECEASED,Soft tissue,1,Metastasis,235.0,Male,Matched,29.0,120.0,1.83333333333,Yes,Yes,Yes,No,Yes
+prad_mich,WA2,WA2,NA,Prostate Cancer,Prostate Adenocarcinoma,NA,NA,NA,NA,NA,NA,PRAD,NA,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+prad_mich,WA20,WA20,67.0,Prostate Cancer,Prostate Adenocarcinoma,No ETS,0.1972,NA,Yes,30,Spleen,PRAD,96.0,1:DECEASED,Liver,1,Metastasis,181.0,Male,Matched,14.0,88.0,1.0,Yes,Yes,No,Yes,Yes
+prad_mich,WA22,WA22,64.0,Prostate Cancer,Prostate Adenocarcinoma,ERG+ (small cell),0.6473,NA,Yes,71,Kidney,PRAD,30.0,1:DECEASED,Prostate,1,Metastasis,23.0,Male,Matched,9.0,30.0,2.36666666667,Yes,Yes,Yes,No,No
+prad_mich,WA23,WA23,73.0,Prostate Cancer,Prostate Adenocarcinoma,ETV1+,0.2204,NA,Yes,53,Cerebellum,PRAD,96.0,1:DECEASED,Bone marrow,1,Metastasis,324.0,Male,Matched,44.0,72.0,1.76666666667,Yes,Yes,Yes,No,Yes
+prad_mich,WA24,WA24,76.0,Prostate Cancer,Prostate Adenocarcinoma,ERG+ (small cell),0.4083,NA,Yes,28,Brain,PRAD,54.0,1:DECEASED,Liver,1,Metastasis,11.0,Male,Matched,9.0,22.0,0.933333333333,Yes,Yes,No,No,Yes
+prad_mich,WA25,WA25,66.0,Prostate Cancer,Prostate Adenocarcinoma,No ETS,0.4412,NA,Yes,45,Kidney,PRAD,33.0,1:DECEASED,Soft tissue,1,Metastasis,509.0,Male,Matched,0.0,27.0,1.5,No,Yes,No,No,No
+prad_mich,WA26,WA26,76.0,Prostate Cancer,Prostate Adenocarcinoma,ETV1+,0.5164,NA,Yes,89,Liver,PRAD,156.0,1:DECEASED,Lung,1,Metastasis,2239.0,Male,Matched,47.0,96.0,2.96666666667,Yes,Yes,No,No,Yes
+prad_mich,WA27,WA27,74.0,Prostate Cancer,Prostate Adenocarcinoma,SPINK1+,0.1939,NA,No,62,Spleen,PRAD,105.0,1:DECEASED,Soft tissue,1,Metastasis,1698.0,Male,Unmatched,11.0,85.0,2.06666666667,Yes,Yes,No,No,Yes
+prad_mich,WA28,WA28,80.0,Prostate Cancer,Prostate Adenocarcinoma,ERG+,0.4220,NA,Yes,42,Kidney,PRAD,180.0,1:DECEASED,Periaortic lymph node,1,Metastasis,1725.0,Male,Matched,61.0,179.0,1.4,Yes,Yes,No,Yes,Yes
+prad_mich,WA29,WA29,77.0,Prostate Cancer,Prostate Adenocarcinoma,No ETS,0.0628,NA,Yes,36,Liver,PRAD,120.0,1:DECEASED,Soft tissue,1,Metastasis,19.0,Male,Matched,8.0,120.0,1.2,Yes,Yes,No,Yes,Yes
+prad_mich,WA3,WA3,53.0,Prostate Cancer,Prostate Adenocarcinoma,No ETS,0.5519,NA,Yes,36,Liver,PRAD,14.0,1:DECEASED,Soft tissue,1,Metastasis,1500.0,Male,Matched,9.0,14.0,1.2,Yes,Yes,No,No,No
+prad_mich,WA30,WA30,71.0,Prostate Cancer,Prostate Adenocarcinoma,No ETS,0.4778,NA,Yes,52,Soft tissue,PRAD,42.0,1:DECEASED,Soft tissue,1,Metastasis,1040.0,Male,Matched,NA,41.0,1.76666666667,No,Yes,Yes,No,No
+prad_mich,WA31,WA31,63.0,Prostate Cancer,Prostate Adenocarcinoma,ERG+,0.5606,NA,Yes,52,Spleen,PRAD,97.0,1:DECEASED,Liver,1,Metastasis,252.0,Male,Matched,73.0,88.0,1.73333333333,Yes,Yes,No,Yes,Yes
+prad_mich,WA32,WA32,81.0,Prostate Cancer,Prostate Adenocarcinoma,No ETS,0.4903,NA,Yes,37,Kidney,PRAD,156.0,1:DECEASED,Liver,1,Metastasis,5222.0,Male,Matched,26.0,156.0,1.33333333333,Yes,Yes,Yes,No,Yes
+prad_mich,WA33,WA33,58.0,Prostate Cancer,Prostate Adenocarcinoma,No ETS,0.5603,NA,Yes,77,Brain,PRAD,105.0,1:DECEASED,Supraclavicular lymph node,1,Metastasis,3220.0,Male,Matched,73.0,105.0,2.56666666667,Yes,Yes,No,No,Yes
+prad_mich,WA35,WA35,71.0,Prostate Cancer,Prostate Adenocarcinoma,No ETS,0.4247,NA,Yes,90,Liver,PRAD,109.0,1:DECEASED,Mesentery,1,Metastasis,72.0,Male,Matched,11.0,109.0,3.0,Yes,Yes,Yes,No,Yes
+prad_mich,WA37,WA37,63.0,Prostate Cancer,Prostate Adenocarcinoma,ERG+,0.4120,NA,Yes,94,Kidney,PRAD,41.0,1:DECEASED,Lung hilar lymph node,1,Metastasis,928.0,Male,Matched,40.0,39.0,3.13333333333,Yes,Yes,No,No,No
+prad_mich,WA38,WA38,77.0,Prostate Cancer,Prostate Adenocarcinoma,No ETS,0.4999,NA,No,39,Spleen,PRAD,131.0,1:DECEASED,Liver,1,Metastasis,382.0,Male,Unmatched,32.0,78.0,1.3,Yes,Yes,Yes,Yes,No
+prad_mich,WA39,WA39,71.0,Prostate Cancer,Prostate Adenocarcinoma,ERG+,0.2211,NA,Yes,20,Liver,PRAD,168.0,1:DECEASED,Periaortic lymph node,1,Metastasis,269.0,Male,Matched,123.0,84.0,0.666666666667,Yes,Yes,No,Yes,No
+prad_mich,WA4,WA4,NA,Prostate Cancer,Prostate Adenocarcinoma,NA,NA,NA,NA,NA,NA,PRAD,NA,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+prad_mich,WA40,WA40,76.0,Prostate Cancer,Prostate Adenocarcinoma,ERG+,0.7171,NA,Yes,80,Kidney,PRAD,47.0,1:DECEASED,Liver,1,Metastasis,1294.0,Male,Matched,44.0,45.0,2.66666666667,Yes,Yes,No,No,Yes
+prad_mich,WA41,WA41,70.0,Prostate Cancer,Prostate Adenocarcinoma,No ETS,0.2102,NA,No,38,Liver,PRAD,108.0,1:DECEASED,Dura,1,Metastasis,257.0,Male,Unmatched,35.0,78.0,1.26666666667,Yes,Yes,No,Yes,No
+prad_mich,WA42,WA42,61.0,Prostate Cancer,Prostate Adenocarcinoma,No ETS,0.4663,NA,Yes,56,Kidney,PRAD,60.0,1:DECEASED,Adrenal,1,Metastasis,3776.0,Male,Matched,30.0,42.0,1.86666666667,Yes,Yes,No,No,No
+prad_mich,WA43,WA43-27,52.0,Prostate Cancer,Prostate Adenocarcinoma,No ETS,0.5336,NA,No,51,Pancreas,PRAD,70.0,1:DECEASED,Celiac lymph node,3,Metastasis,NA,Male,Unmatched,40.0,60.0,1.7,Yes,Yes,No,Yes,Yes
+prad_mich,WA43,WA43-44,52.0,Prostate Cancer,Prostate Adenocarcinoma,No ETS,0.4534,NA,No,59,Pancreas,PRAD,70.0,1:DECEASED,Bladder,3,Metastasis,NA,Male,Unmatched,40.0,60.0,1.96666666667,Yes,Yes,No,Yes,Yes
+prad_mich,WA43,WA43-71,52.0,Prostate Cancer,Prostate Adenocarcinoma,No ETS,0.6331,NA,No,41,Pancreas,PRAD,70.0,1:DECEASED,Lung,3,Metastasis,NA,Male,Unmatched,40.0,60.0,1.36666666667,Yes,Yes,No,Yes,Yes
+prad_mich,WA46,WA46,71.0,Prostate Cancer,Prostate Adenocarcinoma,No ETS,0.4712,NA,Yes,80,Spleen,PRAD,69.0,1:DECEASED,Periaortic lymph node,1,Metastasis,189.0,Male,Matched,30.0,69.0,2.66666666667,Yes,Yes,Yes,Yes,Yes
+prad_mich,WA47,WA47,64.0,Prostate Cancer,Prostate Adenocarcinoma,SPINK1+,0.3057,NA,Yes,22,Liver,PRAD,46.0,1:DECEASED,Adrenal gland,1,Metastasis,12.0,Male,Matched,43.0,45.0,0.766666666667,Yes,Yes,Yes,No,No
+prad_mich,WA48,WA48,82.0,Prostate Cancer,Prostate Adenocarcinoma,ERG+,0.5697,NA,No,236,Liver,PRAD,158.0,1:DECEASED,Bone marrow,1,Metastasis,308.0,Male,Unmatched,120.0,105.0,7.83333333333,Yes,Yes,No,Yes,Yes
+prad_mich,WA49,WA49,68.0,Prostate Cancer,Prostate Adenocarcinoma,ERG+,0.5598,NA,No,31,Liver,PRAD,98.0,1:DECEASED,Periaortic lymph node,1,Metastasis,491.0,Male,Unmatched,73.0,81.0,1.03333333333,Yes,Yes,No,Yes,Yes
+prad_mich,WA5,WA5,NA,Prostate Cancer,Prostate Adenocarcinoma,NA,NA,NA,NA,NA,NA,PRAD,NA,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+prad_mich,WA50,WA50,78.0,Prostate Cancer,Prostate Adenocarcinoma,ERG+,0.4126,NA,No,90,Liver,PRAD,192.0,1:DECEASED,Subcarinal lymph node,1,Metastasis,74.0,Male,Unmatched,113.0,110.0,3.0,Yes,Yes,No,Yes,Yes
+prad_mich,WA51,WA51,65.0,Prostate Cancer,Prostate Adenocarcinoma,No ETS,0.4546,NA,No,43,Liver,PRAD,133.0,1:DECEASED,Bone marrow,1,Metastasis,57.0,Male,Unmatched,120.0,122.0,1.43333333333,Yes,Yes,Yes,Yes,No
+prad_mich,WA52,WA52,80.0,Prostate Cancer,Prostate Adenocarcinoma,ERG+,0.2244,NA,No,28,Spleen,PRAD,160.0,1:DECEASED,Lung,1,Metastasis,194.0,Male,Unmatched,65.0,117.0,0.933333333333,Yes,Yes,No,Yes,No
+prad_mich,WA53,WA53,68.0,Prostate Cancer,Prostate Adenocarcinoma,ERG+,0.4196,NA,Yes,34,Liver,PRAD,56.0,1:DECEASED,Liver,1,Metastasis,312.0,Male,Matched,38.0,54.0,1.13333333333,Yes,Yes,Yes,No,No
+prad_mich,WA54,WA54,73.0,Prostate Cancer,Prostate Adenocarcinoma,ERG+,0.3654,NA,Yes,34,Liver,PRAD,162.0,1:DECEASED,Liver,1,Metastasis,102.0,Male,Matched,22.0,66.0,1.13333333333,Yes,Yes,Yes,Yes,Yes
+prad_mich,WA55,WA55,72.0,Prostate Cancer,Prostate Adenocarcinoma,ERG+,0.5584,NA,Yes,41,Liver,PRAD,52.0,1:DECEASED,Liver,1,Metastasis,657.0,Male,Matched,35.0,50.0,1.36666666667,Yes,Yes,Yes,No,No
+prad_mich,WA56,WA56,79.0,Prostate Cancer,Prostate Adenocarcinoma,ERG+,0.4377,NA,No,171,Spleen,PRAD,218.0,1:DECEASED,Lymph node,1,Metastasis,353.0,Male,Unmatched,56.0,82.0,5.7,Yes,Yes,Yes,Yes,Yes
+prad_mich,WA57,WA57,73.0,Prostate Cancer,Prostate Adenocarcinoma,ERG+ (small cell),0.5667,NA,No,94,Spleen,PRAD,77.0,1:DECEASED,Liver,1,Metastasis,0.0,Male,Unmatched,14.0,77.0,3.16666666667,Yes,Yes,No,No,Yes
+prad_mich,WA58,WA58,76.0,Prostate Cancer,Prostate Adenocarcinoma,No ETS,0.1104,NA,No,34,Spleen,PRAD,141.0,1:DECEASED,Lung,1,Metastasis,82.0,Male,Unmatched,39.0,141.0,1.13333333333,Yes,Yes,Yes,No,No
+prad_mich,WA59,WA59,59.0,Prostate Cancer,Prostate Adenocarcinoma,No ETS,0.5352,NA,No,31,Liver,PRAD,94.0,1:DECEASED,Iliac lymph node,1,Metastasis,1678.0,Male,Unmatched,12.0,94.0,1.03333333333,Yes,Yes,Yes,No,No
+prad_mich,WA6,WA6,NA,Prostate Cancer,Prostate Adenocarcinoma,NA,NA,NA,NA,NA,NA,PRAD,NA,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+prad_mich,WA60,WA60,62.0,Prostate Cancer,Prostate Adenocarcinoma,ERG+,0.6960,NA,No,27,Liver,PRAD,129.0,1:DECEASED,Paratracheal lymph node,1,Metastasis,658.0,Male,Unmatched,32.0,129.0,0.9,Yes,Yes,No,No,No
+prad_mich,WA7,WA7,66.0,Prostate Cancer,Prostate Adenocarcinoma,No ETS,0.6947,NA,Yes,38,Pancreas,PRAD,64.0,1:DECEASED,Soft tissue,1,Metastasis,8083.0,Male,Matched,19.0,48.0,1.26666666667,Yes,Yes,No,No,No
