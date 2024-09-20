@@ -1,1 +1,1 @@
-# lab_1_ML
+# Laboratories Machine Learning
